@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&family=Roboto:wght@400;500&display=swap');
 
 * {
 	margin: 0px;
@@ -9,15 +9,15 @@
 }
 
 :root {
-	--theme-color: #45b37e;
+	--theme-color: #006828;
 	--theme-color-two: #ffbf00;
 	--theme-color-three: #d40032;
 	--theme-color-four: #02c06d;
 	--theme-color-five: #18bec2;
 	--dark-color: #374151;
 	--dark-color-two: #374151;
-	--poppins: 'Poppins', sans-serif;
-	--poppins: 'poppins', serif;
+	--poppins: 'Montserrat', sans-serif;
+	--poppins: 'Montserrat', serif;
 	--anim-menu-btn-size: 30px;
 	--anim-menu-btn-icon-size: 28px;
 	--anim-menu-btn-icon-stroke: 2px;
@@ -36,8 +36,8 @@
 body {
 	font-size: 15px;
 	line-height: 28px;
-	color: #374151;
-	font-weight: 400;
+	color: #2d2e30;
+	font-weight: 500;
 	background: #ffffff;
 	-webkit-font-smoothing: antialiased;
 	-moz-font-smoothing: antialiased;
